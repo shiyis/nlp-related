@@ -1,3 +1,6 @@
 [submodule "dla"]
 	path = dla
 	url = https://github.com/markovka17/dla
+[submodule "nasslli2018"]
+	path = nasslli2018
+	url = https://github.com/naraehan/NASSLLI2018-Corpus-Linguistics
