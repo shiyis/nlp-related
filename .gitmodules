@@ -4,3 +4,6 @@
 [submodule "nasslli2018"]
 	path = nasslli2018
 	url = https://github.com/naraehan/NASSLLI2018-Corpus-Linguistics
+[submodule "w2v"]
+	path = w2v
+	url = https://github.com/bakszero/MiniWord2Vec.git
